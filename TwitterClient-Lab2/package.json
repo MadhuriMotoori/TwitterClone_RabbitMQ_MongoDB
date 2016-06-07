@@ -1,0 +1,16 @@
+{
+  "name": "RabbitMQ-Client",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "amqp": "^0.2.6",
+    "connect-mongo": "^1.2.0",
+    "ejs": "*",
+    "express": "^3.2.6",
+    "express-session": "^1.13.0",
+    "mongodb": "^2.1.21"
+  }
+}
